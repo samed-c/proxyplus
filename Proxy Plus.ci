@@ -1,0 +1,327 @@
+﻿<project version = 9 civer = 5.6.0 winver = "2.6/5.1.2600" >
+   <autorun >1</>
+   <autoclose >0</>
+   <compname >samedcansin.com</>
+   <produrl >Proxy plus</>
+   <ver >1.0</>
+   <supurl ></>
+   <updurl ></>
+   <dlgfont >verdana</>
+   <headlogo >default - 1</>
+   <dlgfontsize >s8</>
+   <output >D:\Projects\samedcansin.com</>
+   <exename >Proxy Plus.exe</>
+   <beffile ></>
+   <aftfile ></>
+   <uninclude >1</>
+   <lang >english</>
+   <addlang ></>
+   <selfextr >1</>
+   <instpath ></>
+   <voltype >nolimit</>
+   <volsize ></>
+   <volpattern >disk%i.pak</>
+   <password ></>
+   <progname >Proxy Plus</>
+   <appname >Proxy Plus</>
+   <bl ></>
+   <blurl ></>
+   <unpath >inst</>
+   <unexe >uninstall.exe</>
+   <unlog >uninstall.ini</>
+   <installroot sorttype = 0 >
+      <children >
+         <install id = install expanded = 2 >
+            <children >
+               <_ id = background disabled = 1 >
+                  <desc ></>
+                  <head >#lcaption#</>
+                  <foot ></>
+                  <font >Times</>
+                  <height >36</>
+                  <bold >0</>
+                  <italic >0</>
+                  <backcol >0x0000FF</>
+                  <textcol >0xFFFFFF</>
+                  <shadecol >0x888888</>
+                  <uniform >0</>
+                  <backbmp ></>
+                  <stretchback >0</>
+               </>
+               <_ id = checkreq expanded = 0 disabled = 1 >
+                  <children >
+                     <_ id = empty ></>
+                  </>
+                  <desc ></>
+                  <checktype >admin</>
+                  <resvar >ischeck</>
+                  <not >0</>
+                  <msg ></>
+               </>
+               <_ id = dlglang disabled = 1 >
+                  <desc ></>
+                  <buttons >nc</>
+                  <design >left</>
+                  <headlogo ></>
+                  <varlist >
+                     <rows ></>
+                  </>
+                  <head ></>
+                  <headtext ></>
+                  <dlgtext ></>
+                  <if ></>
+               </>
+               <_ id = dlgwel >
+                  <desc ></>
+                  <buttons >auto</>
+                  <design >left</>
+                  <headlogo ></>
+                  <varlist >
+                     <rows ></>
+                  </>
+                  <head ></>
+                  <headtext ></>
+                  <dlgtext ></>
+                  <if ></>
+               </>
+               <_ id = dlglic disabled = 1 >
+                  <desc ></>
+                  <file ></>
+                  <print >1</>
+                  <iagree >radio</>
+                  <buttons >pnc</>
+                  <design >left</>
+                  <headlogo ></>
+                  <varlist >
+                     <rows >
+                        <_ >
+                           <varname >Liccolor</>
+                           <value >1</>
+                        </>
+                     </>
+                  </>
+                  <head ></>
+                  <headtext ></>
+                  <if ></>
+               </>
+               <_ id = dlgpath >
+                  <desc ></>
+                  <buttons >auto</>
+                  <design >left</>
+                  <headlogo ></>
+                  <chlist >
+                     <rows ></>
+                  </>
+                  <varlist >
+                     <rows ></>
+                  </>
+                  <head ></>
+                  <headtext ></>
+                  <dlgtext ></>
+                  <pathadd ></>
+                  <enforce >0</>
+                  <if ></>
+               </>
+               <_ id = dlgprog expanded = 2 >
+                  <children >
+                     <_ tag = 0 id = unpack >
+                        <desc ></>
+                        <comptype >default</>
+                        <ratio >r5</>
+                        <solid >1</>
+                        <path >inst</>
+                        <custpath ></>
+                        <ifexist >overnewer</>
+                        <if ></>
+                        <srclist >
+                           <rows ></>
+                        </>
+                        <varlist >
+                           <rows ></>
+                        </>
+                     </>
+                     <_ id = shcut >
+                        <desc ></>
+                        <shpath >prog</>
+                        <shfile >#lunname#</>
+                        <path >inst</>
+                        <file >uninstall.exe</>
+                        <icon ></>
+                        <cmdline ></>
+                        <comment ></>
+                        <work >inst</>
+                        <defwork ></>
+                        <runas >norm</>
+                     </>
+                     <_ tag = 0 id = shlist >
+                        <desc ></>
+                        <shlist >
+                           <rows ></>
+                        </>
+                     </>
+                     <_ id = uninstexe >
+                        <desc ></>
+                     </>
+                     <_ id = unar >
+                        <desc ></>
+                        <name ></>
+                        <path >inst</>
+                        <ifile ></>
+                     </>
+                  </>
+                  <desc >Go into the item for viewing unpacking actions.</>
+                  <auto >1</>
+                  <buttons >nc</>
+                  <design >left</>
+                  <headlogo ></>
+                  <varlist >
+                     <rows ></>
+                  </>
+                  <head ></>
+                  <headtext ></>
+                  <dlgtext ></>
+                  <if ></>
+               </>
+               <_ id = dlgfin >
+                  <desc ></>
+                  <buttons >c</>
+                  <design >left</>
+                  <headlogo ></>
+                  <chlist >
+                     <rows ></>
+                  </>
+                  <varlist >
+                     <rows ></>
+                  </>
+                  <head ></>
+                  <headtext ></>
+                  <dlgtext ></>
+               </>
+               <_ tag = 0 id = unpack >
+                  <desc ></>
+                  <comptype >default</>
+                  <ratio >r5</>
+                  <solid >1</>
+                  <path >inst</>
+                  <custpath ></>
+                  <ifexist >overnewer</>
+                  <if ></>
+                  <srclist >
+                     <rows >
+                        <_ >
+                           <filename >D:\Projects\Resources\Windows\Proxy Plus\bin\Release\proxyplus.exe</>
+                           <recurse >1</>
+                           <justfile >0</>
+                           <emptydir >0</>
+                           <exclude ></>
+                        </>
+                     </>
+                  </>
+                  <varlist >
+                     <rows ></>
+                  </>
+               </>
+               <_ tag = 0 id = shlist >
+                  <desc ></>
+                  <shlist >
+                     <rows >
+                        <_ >
+                           <shpath >prog</>
+                           <shfile >Proxy Plus</>
+                           <path >inst</>
+                           <file >proxyplus.exe</>
+                           <cmdline ></>
+                           <icon >D:\Projects\Resources\Windows\Proxy Plus\plus_gray.ico</>
+                           <work >inst</>
+                           <defwork ></>
+                           <if ></>
+                        </>
+                        <_ >
+                           <shpath >desk</>
+                           <shfile >Proxy Plus</>
+                           <path >inst</>
+                           <file >proxyplus.exe</>
+                           <cmdline ></>
+                           <icon >D:\Projects\Resources\Windows\Proxy Plus\plus_gray.ico</>
+                           <work >inst</>
+                           <defwork ></>
+                           <if ></>
+                        </>
+                     </>
+                  </>
+               </>
+            </>
+            <icofile >D:\Projects\Resources\Windows\Proxy Plus\plus_gray.ico</>
+            <resfile ></>
+            <leftimg >install - 1</>
+            <caption ></>
+            <verinfo >1</>
+         </>
+      </>
+   </>
+   <uninstallroot sorttype = 0 >
+      <children >
+         <uninstall id = uninstall expanded = 2 >
+            <children >
+               <_ id = dlguconf >
+                  <desc ></>
+                  <buttons >c</>
+                  <design >left</>
+                  <headlogo ></>
+                  <varlist >
+                     <rows ></>
+                  </>
+               </>
+               <_ id = dlguprog expanded = 2 >
+                  <children >
+                     <_ id = unprocess >
+                        <desc ></>
+                     </>
+                  </>
+                  <desc ></>
+                  <buttons >nc</>
+                  <design >left</>
+                  <headlogo ></>
+                  <varlist >
+                     <rows ></>
+                  </>
+               </>
+               <_ id = dlgundel >
+                  <desc ></>
+                  <buttons >nc</>
+                  <design >left</>
+                  <headlogo ></>
+                  <varlist >
+                     <rows ></>
+                  </>
+               </>
+               <_ id = dlgufin >
+                  <desc ></>
+                  <buttons >nc</>
+                  <design >left</>
+                  <headlogo ></>
+                  <varlist >
+                     <rows ></>
+                  </>
+               </>
+            </>
+            <unicon >D:\Projects\Resources\Windows\Proxy Plus\install.ico</>
+            <unresfile ></>
+            <leftimg >uninstall - 1</>
+            <caption ></>
+         </>
+      </>
+   </>
+   <phone ></>
+   <shfolder ></>
+   <headcol ></>
+   <headtext ></>
+   <headimg ></>
+   <stretchback >0</>
+   <custfont ></>
+   <crautorun >0</>
+   <autoicon ></>
+   <multilist >
+      <rows ></>
+   </>
+</>

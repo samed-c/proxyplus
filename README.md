@@ -1,0 +1,32 @@
+# Proxy Plus Pro [VB]
+A simple windows application to change proxy settings.
+
+## Description
+
+* Proxy Plus is a simple utility to change proxy adress:port for various applications.
+
+![Alt text](/screenshot.jpg?raw=true "Application Screenshot")
+
+## Documentation
+* We unfortunately do not have a complete documentation for this product.
+
+## Features
+* Change port for
+  * Internet Explorer
+  * Google Chrome
+  * Skype
+  * Yahoo Messenger
+  * MSN Messenger
+  * Firefox Browser
+  * Winamp Media Player
+  * Google LimeWire
+
+* Disadvantages
+  * Last known windows version working on was Windows XP.
+  * There may be dependancies needed to run in your windows version which were not reported yet.
+
+## Installation on Windows
+* Download and run setup.exe, follow wizard options.
+
+## About the author
+* Samed is a full-stack web developer from QC, creating responsive enterprise systems and informatics architectures for the Web.

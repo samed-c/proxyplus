@@ -1,0 +1,27 @@
+C:\Documents and Settings\Coder\Desktop\proxyplus\proxyplus\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Coder\Desktop\proxyplus\proxyplus\obj\Debug\proxyplus.form.resources
+C:\Documents and Settings\Coder\Desktop\proxyplus\proxyplus\obj\Debug\proxyplus.Properties.Resources.resources
+C:\Documents and Settings\Coder\Desktop\proxyplus\proxyplus\obj\Debug\Proxy Plus.csproj.GenerateResource.Cache
+C:\Documents and Settings\Coder\Desktop\proxyplus\proxyplus\obj\Debug\proxyplus.exe
+C:\Documents and Settings\Coder\Desktop\proxyplus\proxyplus\bin\Debug\proxyplus.exe
+C:\Documents and Settings\Coder\Desktop\proxyplus\proxyplus\bin\Debug\proxyplus.pdb
+C:\Documents and Settings\Coder\Desktop\proxyplus\proxyplus\obj\Debug\proxyplus.pdb
+C:\Documents and Settings\Coder\Desktop\proxyplus\proxyplus\obj\Debug\proxyplus.about.resources
+C:\Documents and Settings\Coder\Desktop\proxyplus\Proxy Plus\obj\Debug\proxyplus.exe
+C:\Documents and Settings\Coder\Desktop\proxyplus\Proxy Plus\obj\Debug\proxyplus.pdb
+C:\Documents and Settings\Coder\Desktop\proxyplus\Proxy Plus\bin\Debug\proxyplus.exe
+C:\Documents and Settings\Coder\Desktop\proxyplus\Proxy Plus\bin\Debug\proxyplus.pdb
+C:\Documents and Settings\Coder\Desktop\proxyplus\Proxy Plus\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Coder\Desktop\proxyplus\Proxy Plus\obj\Debug\proxyplus.About.resources
+C:\Documents and Settings\Coder\Desktop\proxyplus\Proxy Plus\obj\Debug\proxyplus.form.resources
+C:\Documents and Settings\Coder\Desktop\proxyplus\Proxy Plus\obj\Debug\proxyplus.Properties.Resources.resources
+C:\Documents and Settings\Coder\Desktop\proxyplus\Proxy Plus\obj\Debug\Proxy Plus.csproj.GenerateResource.Cache
+D:\Localhost\Proxy Plus\obj\Debug\proxyplus.exe
+D:\Localhost\Proxy Plus\obj\Debug\proxyplus.pdb
+D:\Localhost\Proxy Plus\bin\Debug\proxyplus.exe
+D:\Localhost\Proxy Plus\bin\Debug\proxyplus.pdb
+D:\Localhost\Proxy Plus\obj\Debug\ResolveAssemblyReference.cache
+D:\Localhost\Proxy Plus\obj\Debug\proxyplus.About.resources
+D:\Localhost\Proxy Plus\obj\Debug\proxyplus.form.resources
+D:\Localhost\Proxy Plus\obj\Debug\proxyplus.Properties.Resources.resources
+D:\Localhost\Proxy Plus\obj\Debug\Proxy Plus.csproj.GenerateResource.Cache

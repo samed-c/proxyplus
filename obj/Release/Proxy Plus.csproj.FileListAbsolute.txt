@@ -1,0 +1,27 @@
+D:\Localhost\Proxy Plus\bin\Release\proxyplus.exe
+D:\Localhost\Proxy Plus\bin\Release\proxyplus.pdb
+D:\Localhost\Proxy Plus\obj\Release\ResolveAssemblyReference.cache
+D:\Localhost\Proxy Plus\obj\Release\proxyplus.About.resources
+D:\Localhost\Proxy Plus\obj\Release\proxyplus.form.resources
+D:\Localhost\Proxy Plus\obj\Release\proxyplus.Properties.Resources.resources
+D:\Localhost\Proxy Plus\obj\Release\Proxy Plus.csproj.GenerateResource.Cache
+D:\Localhost\Proxy Plus\obj\Release\proxyplus.exe
+D:\Localhost\Proxy Plus\obj\Release\proxyplus.pdb
+D:\Projects\Windows\Proxy Plus\obj\Release\proxyplus.exe
+D:\Projects\Windows\Proxy Plus\bin\Release\proxyplus.exe
+D:\Projects\Windows\Proxy Plus\bin\Release\proxyplus.pdb
+D:\Projects\Windows\Proxy Plus\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\Windows\Proxy Plus\obj\Release\proxyplus.About.resources
+D:\Projects\Windows\Proxy Plus\obj\Release\proxyplus.form.resources
+D:\Projects\Windows\Proxy Plus\obj\Release\proxyplus.Properties.Resources.resources
+D:\Projects\Windows\Proxy Plus\obj\Release\Proxy Plus.csproj.GenerateResource.Cache
+D:\Projects\Windows\Proxy Plus\obj\Release\proxyplus.pdb
+D:\Projects\Resources\Windows\Proxy Plus\obj\Release\proxyplus.exe
+D:\Projects\Resources\Windows\Proxy Plus\obj\Release\proxyplus.pdb
+D:\Projects\Resources\Windows\Proxy Plus\bin\Release\proxyplus.exe
+D:\Projects\Resources\Windows\Proxy Plus\bin\Release\proxyplus.pdb
+D:\Projects\Resources\Windows\Proxy Plus\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\Resources\Windows\Proxy Plus\obj\Release\proxyplus.About.resources
+D:\Projects\Resources\Windows\Proxy Plus\obj\Release\proxyplus.form.resources
+D:\Projects\Resources\Windows\Proxy Plus\obj\Release\proxyplus.Properties.Resources.resources
+D:\Projects\Resources\Windows\Proxy Plus\obj\Release\Proxy Plus.csproj.GenerateResource.Cache

@@ -1,0 +1,21 @@
+
+Processing D:\Projects\Resources\Windows\Proxy Plus\Proxy Plus.ci 22.03.2010 03:39:25
+Log file: D:\Projects\Resources\Windows\Proxy Plus\Proxy Plus.log 
+Generating Sources... 
+Compiling Gentee Sources... 
+Build setup file: D:\Projects\samedcansin.com\Proxy Plus.exe 
+Adding temporary file(s) to EXE 
+C:\DOCUME~1\Coder\LOCALS~1\Temp\gentee00\english.lng 22.03.2010 03:39:26 3533  45.14%
+C:\Program Files\CreateInstall Free\res\logo\default - 1.bmp 05.11.2002 10:52:24 7308  52.50%
+C:\Program Files\CreateInstall Free\res\leftimg\install\install - 1.bmp 10.11.2002 10:56:02 20678  33.42%
+C:\Program Files\CreateInstall Free\res\leftimg\uninstall\uninstall - 1.bmp 10.11.2002 10:56:02 20678  28.17%
+Build setup file: C:\DOCUME~1\Coder\LOCALS~1\Temp\gentee00\uninstall.exe 
+Adding uninstall file(s) to EXE 
+Getting list of files 
+Packing files... 
+================================ 
+D:\Projects\Resources\Windows\Proxy Plus\bin\Release\proxyplus.exe 22.03.2010 03:31:45 131584  68.57%
+================================ 
+All files: 1 [ 128KB => 88KB ] 
+File Size D:\Projects\samedcansin.com\Proxy Plus.exe: 194 KB 
+Finish Successful 22.03.2010 03:39:27
