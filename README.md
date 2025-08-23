@@ -1,4 +1,4 @@
-# Proxy Plus Pro [VB]
+# Proxy Plus Pro [C#]
 A simple windows application to change proxy settings.
 
 ## Description
