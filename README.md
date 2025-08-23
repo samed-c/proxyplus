@@ -6,6 +6,7 @@ A simple windows application to change proxy settings.
 * Proxy Plus is a simple utility to change proxy adress:port for various applications.
 
 ![Alt text](/screenshot-1.jpg?raw=true "Application Screenshot")
+
 ![Alt text](/screenshot-2.jpg?raw=true "Application Screenshot")
 
 ## Documentation
