@@ -7,8 +7,6 @@ A simple windows application to change proxy settings.
 
 ![Alt text](/screenshot-1.jpg?raw=true "Application Screenshot")
 
-![Alt text](/screenshot-2.jpg?raw=true "Application Screenshot")
-
 ## Documentation
 * We unfortunately do not have a complete documentation for this product.
 
@@ -22,6 +20,8 @@ A simple windows application to change proxy settings.
   * Firefox Browser
   * Winamp Media Player
   * Google LimeWire
+  ![Alt text](/screenshot-2.jpg?raw=true "Application Screenshot")
+  
 * Deactivate proxy setting
 
 * Disadvantages
